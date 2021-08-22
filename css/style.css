@@ -1,0 +1,35 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.home-page-jumbotron-bg {
+    background-color: #E9ECEF;
+}
+
+.card>img {
+    height: 450px;
+}
+
+.about-us-card-bg {
+    background-color: #E9ECEF;
+}
+
+.about-us-card-h3 {
+    color: rgb(231, 109, 53);
+}
+
+.home-page-h1 {
+    color: rgb(196, 26, 125);
+}
+
+.home-page-h3 {
+    color: rgb(231, 109, 53);
+}
+
+.about-product-h1 {
+    color: rgb(165, 7, 182);
+}
+
+a {
+    text-decoration: none;
+}
